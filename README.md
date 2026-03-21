@@ -1,7 +1,7 @@
 # SQL-Data-Warehousing
 
 ## Description:
-Designed and implemented a SQL-based Data Warehouse using ETL processes to transform raw data into structured, analysis-ready datasets. Built optimized queries and data models to support business intelligence and reporting.
+Developed a **Data Warehousing solution** using SQL, including data extraction, transformation, and loading (ETL). Cleaned and structured raw datasets into fact and dimension tables, enabling efficient querying, reporting, and data-driven decision making.
 
 ## Project Requirements
 ### Objectives
