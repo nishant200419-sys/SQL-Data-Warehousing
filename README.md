@@ -1,9 +1,9 @@
 # SQL-Data-Warehousing
 
-## Description:
+## 📃Description:
 Developed a **Data Warehousing solution** using SQL, including data extraction, transformation, and loading (ETL). Cleaned and structured raw datasets into fact and dimension tables, enabling efficient querying, reporting, and data-driven decision making.
 
-## Project Requirements
+## 🚀Project Requirements
 ### Objectives
   - Convert raw data into structured, analysis-ready format.
   - Build an ETL (Extract, Transform, Load) pipeline.
@@ -34,8 +34,8 @@ Developed a **Data Warehousing solution** using SQL, including data extraction, 
 ### Scope
   Focus on the latest dataset only; historization of the data is not required.
 
-## Liscense
+## 🛡️Liscense
   This project is liscenced under the **(MIT License)(LICENSE)**. You are free to use this project with proper attribution.
   
-## About me
+## 📣About me
   Hey, guys! I'm **Nishant Verma**, an aspiring data analyst very keen to excel my skills in SQL by getting hands on experience and doing projects like these.
