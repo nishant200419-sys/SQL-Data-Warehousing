@@ -5,11 +5,8 @@ Designed and implemented a SQL-based Data Warehouse using ETL processes to trans
 
 **Objectives**
   Convert raw data into structured, analysis-ready format.
-  
   Build an ETL (Extract, Transform, Load) pipeline.
-  
   Design a scalable data warehouse using a star schema.
-  
   Enable fast and efficient analytical queries.
 
 **Tools**
