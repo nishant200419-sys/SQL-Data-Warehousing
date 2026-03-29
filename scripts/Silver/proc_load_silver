@@ -12,11 +12,6 @@ preparing integrated business data forfurther transformation (Gold layer) and an
 --------------------------------------------------------------------------------------------------------------------------
 Script Parameters:
 This script does not include user-defined input parameters but uses built-in SQL Server functions and controls to manage execution.
-The OBJECT_ID() function is used to check for the existence of tables before dropping them, ensuring a clean setup. DROP TABLE and
-CREATE TABLE statements define and recreate the schema for the Silver layer. Various data types such as INT, NVARCHAR, DATE, and
-DATETIME2 are used to structure the data appropriately. The DEFAULT GETDATE() function automatically records the data load timestamp,
-while GO acts as a batch separator to execute commands in logical sections. These elements collectively control the script’s execution,
-structure, and data consistency.
 ---------------------------------------------------------------------------------------------------------------------------
 Usage Example: EXECUTE silver.load_silver
 ===========================================================================================================================
